@@ -15,8 +15,10 @@ function draw() {
   circle(-150,-20,150)
   fill("black")
   circle(-200,-20,20)
+  fill("black")
+  circle(-100,-20,20)
   // eyes
-  triangle(-100,10,-100,50,20,100)
+  triangle(-100,50,-100,0,-200,10)
   // nose, didnt finish yet
   fill("grey")
 
